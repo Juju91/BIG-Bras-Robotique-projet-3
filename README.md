@@ -47,19 +47,38 @@ CORPS
 				cerveau
 				relais
 				pont en H
-				Cam/sensor
+				1Cam/ pleins sensor
+				angle sensor
+				
 			Programmes:
 				Manette
 				Tel ?
 				Articulations
 				Peneux
 				Cam
-				Rasb
+				* Rasb
 					IA
 					avec un micro
+					reconnaissance d image
 				Retour en charge
 				Scan de l environnement
 					Chemin opti pour la taille (anti choque)
 					Chemin opti pour les cables
-		
-		
+subtilités
+	contre poids
+	peneu en caoutchouc
+	pince avec un bout caoutchouc
+	assembler la puissance des moteurs pour l epaule et la coude
+	reducteur à foison
+	faire un suivi des prix paske c est recyclé
+	force de la main
+	resistance aux forces exterieur (genre si on le pousse et tout)
+
+Avenir
+	securité
+	interface
+	force
+	lognevité de batterie
+	STT / TTS
+	Utiliser des outils (tournevis, crayons)
+	
